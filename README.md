@@ -28,8 +28,8 @@ Building production systems that handle real users at real scale.
 ---
 
 ### 🏛️ Seven Koncepts · Full Stack Software Engineer *(Aug 2025 – Dec 2025)*
-- Led backend of **PomPak** — national financial literacy platform backed by **State Bank of Pakistan & JazzCash** — **1M+ users · 750,000+ students · 45+ districts**
-- 53 bilingual modules (English/Urdu), multi-tenant auth at national scale, SQL Server stored procedures
+- Built and shipped content platforms (content upload, feed/scroll experiences) 
+  and e-commerce projects across multiple client engagements.
 - Delivered across Node.js, Django, Flask, and PHP within the same company — framework-agnostic production delivery under Agile/Scrum
 - Containerised services with Docker, deployed to **AWS EC2/S3**, maintained CI/CD pipelines and automated DB migrations
 - **Stack:** Laravel · PHP · SQL Server · Docker · AWS EC2/S3 · CI/CD
