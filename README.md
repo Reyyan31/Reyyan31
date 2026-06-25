@@ -2,7 +2,7 @@
 
 **Backend Engineer** — Node.js · Laravel/PHP · DevOps · Cloud  
 Building production systems that handle real users at real scale.  
-📍 Islamabad, Pakistan · Open to remote / EU · UK · US (visa sponsorship)
+📍 Islamabad, Pakistan · Open to remote / global opportunities
 
 ---
 
