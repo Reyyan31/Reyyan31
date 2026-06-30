@@ -16,7 +16,7 @@ Building and orchestrating production systems that handle real users at true ent
 - Own all server operations: Linux/cPanel provisioning, SSL/DNS, environment separation, DB migrations, and production monitoring — maintaining **≥99% uptime** across live systems.
 - **Stack:** PHP · Laravel · MySQL · Vue.js · Redis · Linux/cPanel
 
-### 🇺🇸 Nodescale LLC (Remote, USA) · Backend Engineer *(Oct 2025 – Jan 2026)*
+### 🏛️ Nodescale LLC (Remote, USA) · Backend Engineer *(Oct 2025 – Jan 2026)*
 - Built the production backend for **BuzzMap** (buzzmap.org) — a live real-time event-discovery platform — using Node.js/Express, MongoDB, Redis, and WebSockets.
 - Delivered high-performance geolocation APIs, OAuth 2.0 auth, rate limiting, and structured error handling to US production standards.
 - Maintained strict async remote collaboration engineering discipline (PR reviews, API versioning, <50ms WebSocket broadcast latency).
